@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<center><head>
+    
+    <title>Emc</title>
+        <link rel="icon" href="emc.png">
+    <h2>Error makes Clever Academy🚀</h2>
+</head>
+<body>
+    <p>Training|tech news|Extra in tech</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, obcaecati?</p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/5QzzeYHApV0?si=SfJu-x_fxqJOECI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque a cupiditate suscipit iusto, numquam officia molestiae nulla ea quod quaerat ipsam quae quidem aliquid debitis, dolorum reprehenderit amet dignissimos neque sequi quasi saepe eius exercitationem? Error odio recusandae excepturi repellat cupiditate omnis autem nostrum ipsum, veniam hic perspiciatis voluptatem sed ex optio enim officia nulla fuga. Corporis esse similique quidem molestias temporibus animi numquam aut expedita totam odio culpa voluptates, ipsa deserunt cumque nesciunt ipsum quia nisi ipsam commodi incidunt, maxime aperiam. Quas blanditiis perspiciatis id? Illo, temporibus iusto. Velit odio nisi reprehenderit ipsum possimus nostrum nesciunt. Perferendis, praesentium voluptatem.</p>
+</center>
+    <h4>Lets divie full stack into three parts</h4>
+    <ul>
+        <li>
+            frontend
+        </li>
+        <li>backend</li>
+        <li>database</li>
+    </ul>
+    <h3>TEchnologies Used for full stack develpoment</h3>
+    <table border="1">
+        <tr>
+            <td>frontend</td>
+            <td>backend</td><td>Database</td>
+
+        </tr>
+        <tr><td>Html</td><td>java</td><td>mongodb</td></tr>
+    </table>
+    <hr>
+    <center><a href="register.html">Register for course</a>|<a href="https://www.instagram.com/accounts/login/?hl=en">Instagram</a>
+        <a href="https://www.youtube.com/watch?v=FYErehuSuuw&t=94s">youtube</a>
+    </center>    
+    </body>
+</html>
+register.html
+<!DOCTYPE html>
+<html >
+<head>
+
+    <center>
+    
+        <title>Emc</title>
+            <link rel="icon" href="emc.png">
+        <h2>Error makes Clever Academy🚀</h2>
+    </head>
+    <body>
+        <p>Training|tech news|Extra in tech</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, obcaecati?</p>
+<hr>
+<h3>REgistration form</h3>
+<form >
+    <table>
+        <tr>
+            <td>Name:</td><td><input type="text" ></td>
+        </tr>
+        <tr>
+            <td>Age:</td><td><input type="number"></td>
+        </tr>
+        <tr>
+            <td>Gender:</td><td><input type="radio" name="Gender">Male <input type="radio" name="Gender">Female</td>
+        </tr>
+        <tr>
+            <td>Email:</td><td><input type="email"></td>
+        </tr>
+</table> 
+</form>
+</body></center>
+</html>
